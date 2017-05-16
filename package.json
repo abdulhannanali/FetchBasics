@@ -1,0 +1,27 @@
+{
+  "name": "FetchBasics",
+  "version": "1.0.0",
+  "description": "Messenger bot to Fetch and Parse content through a link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/FetchBasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/FetchBasics/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/FetchBasics#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "dotenv": "^4.0.0",
+    "fbgraph": "^1.4.1",
+    "html-to-text": "^3.2.0",
+    "messenger-bot": "^2.4.0"
+  }
+}
