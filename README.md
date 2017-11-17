@@ -1,5 +1,7 @@
 # FetchBasics
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/FetchBasics.svg)](https://greenkeeper.io/)
+
 FetchBasics lets people read articles from all over the internet when using 
 Facebook's FreeBasics Services. 
 
